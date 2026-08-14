@@ -1,0 +1,387 @@
+{
+  "windowHours": 24,
+  "generatedAt": "2026-08-14T17:50:44.655Z",
+  "totals": {
+    "allow": 0,
+    "block": 0,
+    "other": 2980
+  },
+  "topBlocked": [],
+  "topAllowed": [],
+  "hourly": [
+    {
+      "hour": "2026-08-13T17:00:00Z",
+      "allow": 0,
+      "block": 0,
+      "other": 150
+    },
+    {
+      "hour": "2026-08-14T02:00:00Z",
+      "allow": 0,
+      "block": 0,
+      "other": 20
+    },
+    {
+      "hour": "2026-08-14T04:00:00Z",
+      "allow": 0,
+      "block": 0,
+      "other": 60
+    },
+    {
+      "hour": "2026-08-14T06:00:00Z",
+      "allow": 0,
+      "block": 0,
+      "other": 90
+    },
+    {
+      "hour": "2026-08-14T07:00:00Z",
+      "allow": 0,
+      "block": 0,
+      "other": 30
+    },
+    {
+      "hour": "2026-08-14T09:00:00Z",
+      "allow": 0,
+      "block": 0,
+      "other": 50
+    },
+    {
+      "hour": "2026-08-14T10:00:00Z",
+      "allow": 0,
+      "block": 0,
+      "other": 20
+    },
+    {
+      "hour": "2026-08-14T11:00:00Z",
+      "allow": 0,
+      "block": 0,
+      "other": 150
+    },
+    {
+      "hour": "2026-08-14T13:00:00Z",
+      "allow": 0,
+      "block": 0,
+      "other": 620
+    },
+    {
+      "hour": "2026-08-14T15:00:00Z",
+      "allow": 0,
+      "block": 0,
+      "other": 770
+    },
+    {
+      "hour": "2026-08-14T16:00:00Z",
+      "allow": 0,
+      "block": 0,
+      "other": 870
+    },
+    {
+      "hour": "2026-08-14T17:00:00Z",
+      "allow": 0,
+      "block": 0,
+      "other": 150
+    }
+  ],
+  "recent": [
+    {
+      "domain": "www.googleadservices.com",
+      "decision": 9,
+      "count": 50,
+      "hour": "2026-08-14T17:00:00Z"
+    },
+    {
+      "domain": "ogads-pa.clients6.google.com",
+      "decision": 5,
+      "count": 30,
+      "hour": "2026-08-14T17:00:00Z"
+    },
+    {
+      "domain": "www.googletagmanager.com",
+      "decision": 9,
+      "count": 20,
+      "hour": "2026-08-14T17:00:00Z"
+    },
+    {
+      "domain": "challenges.cloudflare.com",
+      "decision": 5,
+      "count": 20,
+      "hour": "2026-08-14T17:00:00Z"
+    },
+    {
+      "domain": "content-autofill.googleapis.com",
+      "decision": 5,
+      "count": 20,
+      "hour": "2026-08-14T17:00:00Z"
+    },
+    {
+      "domain": "translate.googleapis.com",
+      "decision": 5,
+      "count": 10,
+      "hour": "2026-08-14T17:00:00Z"
+    },
+    {
+      "domain": "www.googletagmanager.com",
+      "decision": 9,
+      "count": 110,
+      "hour": "2026-08-14T16:00:00Z"
+    },
+    {
+      "domain": "beacons.gvt2.com",
+      "decision": 9,
+      "count": 90,
+      "hour": "2026-08-14T16:00:00Z"
+    },
+    {
+      "domain": "beacons5.gvt2.com",
+      "decision": 9,
+      "count": 90,
+      "hour": "2026-08-14T16:00:00Z"
+    },
+    {
+      "domain": "seaart-gateway.sc-api.saconsole.com",
+      "decision": 5,
+      "count": 60,
+      "hour": "2026-08-14T16:00:00Z"
+    },
+    {
+      "domain": "seaart-gateway.akamaized.net",
+      "decision": 5,
+      "count": 60,
+      "hour": "2026-08-14T16:00:00Z"
+    },
+    {
+      "domain": "www.recaptcha.net",
+      "decision": 5,
+      "count": 40,
+      "hour": "2026-08-14T16:00:00Z"
+    },
+    {
+      "domain": "beacons3.gvt2.com",
+      "decision": 9,
+      "count": 40,
+      "hour": "2026-08-14T16:00:00Z"
+    },
+    {
+      "domain": "publish-gateway-zga.sc-api.saconsole.com",
+      "decision": 5,
+      "count": 40,
+      "hour": "2026-08-14T16:00:00Z"
+    },
+    {
+      "domain": "beacons2.gvt2.com",
+      "decision": 9,
+      "count": 30,
+      "hour": "2026-08-14T16:00:00Z"
+    },
+    {
+      "domain": "s.yimg.jp",
+      "decision": 5,
+      "count": 30,
+      "hour": "2026-08-14T16:00:00Z"
+    },
+    {
+      "domain": "www.google.com",
+      "decision": 7,
+      "count": 30,
+      "hour": "2026-08-14T16:00:00Z"
+    },
+    {
+      "domain": "s.go-mpulse.net",
+      "decision": 9,
+      "count": 30,
+      "hour": "2026-08-14T16:00:00Z"
+    },
+    {
+      "domain": "firebase.googleapis.com",
+      "decision": 5,
+      "count": 30,
+      "hour": "2026-08-14T16:00:00Z"
+    },
+    {
+      "domain": "optimizationguide-pa.googleapis.com",
+      "decision": 5,
+      "count": 30,
+      "hour": "2026-08-14T16:00:00Z"
+    },
+    {
+      "domain": "assets.adobedtm.com",
+      "decision": 5,
+      "count": 30,
+      "hour": "2026-08-14T16:00:00Z"
+    },
+    {
+      "domain": "nanoreview-net.translate.goog",
+      "decision": 5,
+      "count": 30,
+      "hour": "2026-08-14T16:00:00Z"
+    },
+    {
+      "domain": "clients4.google.com",
+      "decision": 5,
+      "count": 20,
+      "hour": "2026-08-14T16:00:00Z"
+    },
+    {
+      "domain": "encrypted-tbn0.gstatic.com",
+      "decision": 5,
+      "count": 20,
+      "hour": "2026-08-14T16:00:00Z"
+    },
+    {
+      "domain": "safebrowsing.google.com",
+      "decision": 9,
+      "count": 20,
+      "hour": "2026-08-14T16:00:00Z"
+    },
+    {
+      "domain": "www.gstatic.com",
+      "decision": 5,
+      "count": 10,
+      "hour": "2026-08-14T16:00:00Z"
+    },
+    {
+      "domain": "update.googleapis.com",
+      "decision": 5,
+      "count": 10,
+      "hour": "2026-08-14T16:00:00Z"
+    },
+    {
+      "domain": "ssm.codes",
+      "decision": 9,
+      "count": 10,
+      "hour": "2026-08-14T16:00:00Z"
+    },
+    {
+      "domain": "www.seaart.ai",
+      "decision": 5,
+      "count": 10,
+      "hour": "2026-08-14T16:00:00Z"
+    },
+    {
+      "domain": "beacons5.gvt2.com",
+      "decision": 9,
+      "count": 100,
+      "hour": "2026-08-14T15:00:00Z"
+    },
+    {
+      "domain": "beacons4.gvt2.com",
+      "decision": 9,
+      "count": 80,
+      "hour": "2026-08-14T15:00:00Z"
+    },
+    {
+      "domain": "www.blogger.com",
+      "decision": 5,
+      "count": 70,
+      "hour": "2026-08-14T15:00:00Z"
+    },
+    {
+      "domain": "accounts.google.com",
+      "decision": 5,
+      "count": 70,
+      "hour": "2026-08-14T15:00:00Z"
+    },
+    {
+      "domain": "clients2.google.com",
+      "decision": 5,
+      "count": 60,
+      "hour": "2026-08-14T15:00:00Z"
+    },
+    {
+      "domain": "googleads.g.doubleclick.net",
+      "decision": 9,
+      "count": 60,
+      "hour": "2026-08-14T15:00:00Z"
+    },
+    {
+      "domain": "www.facebook.com",
+      "decision": 5,
+      "count": 50,
+      "hour": "2026-08-14T15:00:00Z"
+    },
+    {
+      "domain": "optimizationguide-pa.googleapis.com",
+      "decision": 5,
+      "count": 50,
+      "hour": "2026-08-14T15:00:00Z"
+    },
+    {
+      "domain": "fonts.gstatic.com",
+      "decision": 5,
+      "count": 40,
+      "hour": "2026-08-14T15:00:00Z"
+    },
+    {
+      "domain": "beacons.gvt2.com",
+      "decision": 9,
+      "count": 40,
+      "hour": "2026-08-14T15:00:00Z"
+    },
+    {
+      "domain": "news.vio.vn",
+      "decision": 5,
+      "count": 40,
+      "hour": "2026-08-14T15:00:00Z"
+    },
+    {
+      "domain": "beacons5.gvt3.com",
+      "decision": 9,
+      "count": 40,
+      "hour": "2026-08-14T15:00:00Z"
+    },
+    {
+      "domain": "static.xx.fbcdn.net",
+      "decision": 5,
+      "count": 30,
+      "hour": "2026-08-14T15:00:00Z"
+    },
+    {
+      "domain": "readaloud.googleapis.com",
+      "decision": 5,
+      "count": 20,
+      "hour": "2026-08-14T15:00:00Z"
+    },
+    {
+      "domain": "encrypted-tbn0.gstatic.com",
+      "decision": 5,
+      "count": 10,
+      "hour": "2026-08-14T15:00:00Z"
+    },
+    {
+      "domain": "clientservices.googleapis.com",
+      "decision": 5,
+      "count": 10,
+      "hour": "2026-08-14T15:00:00Z"
+    },
+    {
+      "domain": "beacons3.gvt2.com",
+      "decision": 9,
+      "count": 70,
+      "hour": "2026-08-14T13:00:00Z"
+    },
+    {
+      "domain": "beacons2.gvt2.com",
+      "decision": 9,
+      "count": 50,
+      "hour": "2026-08-14T13:00:00Z"
+    },
+    {
+      "domain": "optimizationguide-pa.googleapis.com",
+      "decision": 5,
+      "count": 40,
+      "hour": "2026-08-14T13:00:00Z"
+    },
+    {
+      "domain": "tracking3.vnncdn.net",
+      "decision": 9,
+      "count": 40,
+      "hour": "2026-08-14T13:00:00Z"
+    },
+    {
+      "domain": "encrypted-tbn0.gstatic.com",
+      "decision": 5,
+      "count": 40,
+      "hour": "2026-08-14T13:00:00Z"
+    }
+  ]
+}
